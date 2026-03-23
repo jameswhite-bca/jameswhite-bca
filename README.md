@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a Platform and Automation Engineer with over 15 years of experience in IT infrastructure, cloud platforms, and automation. I specialize in designing, building, and optimizing solutions that improve efficiency and scalability using:
+I'm a DevOps / Platform Engineer with over 15 years of experience in IT infrastructure, cloud platforms, and automation. I specialize in designing, building, and optimizing solutions that improve efficiency and scalability using:
 
 ☁️ Microsoft Azure
 
